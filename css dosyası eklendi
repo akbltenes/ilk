@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+}
+p{
+    color: orangered;
+}
+t{
+    color: rgb(186, 20, 20);
+}
+h3{
+    color: gold;
+}
+ol{
+    color: palevioletred;
+}
+ul{
+    color: yellow;
+}
+
+.h3_background {
+    background-color:aqua;
+    height: 10px;
+}
